@@ -1,16 +1,38 @@
-## Hi there 👋
+# Innocent Gatimu Mburu
 
-<!--
-**innocentgatimu/innocentgatimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Software developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Passionate about building software. Currently improving my skills in full-stack development and also ethical hacking in progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- python
+- React.js
+- node.js
+- Typescript
+- HTML & CSS
+- java
+- Mysql
+- firebase and supabase 
+- Git & GitHub
+
+## 📱 Projects
+
+### Android Expense Tracker (In Progress)
+An Android app for chatting.
+[View Project](link_here)
+
+### Business Website
+A responsive website built with node.js,react.js and typescript for sales locally and country wide .
+[View Project](link_here)
+
+### menu page website
+A menu web page built with html,css and javascript 
+[View Project](link_here)
+
+### movie site website
+a movie site using api to fetch movie data .
+[view project]()
+
+## 📫 Contact
+Email: mburuinnocent940@gmail.com
