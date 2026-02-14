@@ -32,7 +32,7 @@ A menu web page built with html,css and javascript
 
 ### movie site website
 a movie site using api to fetch movie data .
-[view project]()
+[view project](https://github.com/innocentgatimu/movie-site)
 
 ## 📫 Contact
 Email: mburuinnocent940@gmail.com
