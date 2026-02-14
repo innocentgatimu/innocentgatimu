@@ -18,9 +18,9 @@ Passionate about building software. Currently improving my skills in full-stack 
 
 ## 📱 Projects
 
-### Android Expense Tracker (In Progress)
+### Android chatting app (In Progress)
 An Android app for chatting.
-[View Project](link_here)
+[View Project](https://github.com/innocentgatimu/innochat-android/tree/main/InnoChat2)
 
 ### Business Website
 A responsive website built with node.js,react.js and typescript for sales locally and country wide .
