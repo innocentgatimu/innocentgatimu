@@ -24,7 +24,7 @@ An Android app for chatting.
 
 ### Business Website
 A responsive website built with node.js,react.js and typescript for sales locally and country wide .
-[View Project](https://github.com/innocentgatimu/Urban-resturant-menu-webpage)
+[View Project](https://github.com/innocentgatimu/Circular-shop)
 
 ### menu page website
 A menu web page built with html,css and javascript 
